@@ -2,8 +2,9 @@
 
 Project = Deploy Workpress Website on AWS 
 
-    -In this project we will deploy workpress website on AWS. We have two ways to complete this task. 
-    -One is treditional way by doing each task one by one and another one by AWS EC2 User data method. Where we can write each command and with single click      we can deploy it easily. 
+    - In this project we will deploy workpress website on AWS. We have two ways to complete this task. 
+    - One is treditional way by doing each task one by one and another one by AWS EC2 User data method. 
+    - Where we can write each command and with single click we can deploy it easily. 
     - We also have simple way to deploy workpress by AWS Lightsail.
     - Following steps and commands are useful to deploy workpress website on AWS.
 
