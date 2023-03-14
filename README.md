@@ -1,6 +1,6 @@
 # Workpress_and_AWS
 
-Project = Deploy Workpress Website on AWS 
+#Project = Deploy Workpress Website on AWS 
 
     - In this project we will deploy workpress website on AWS. We have two ways to complete this task. 
     - One is treditional way by doing each task one by one and another one by AWS EC2 User data method. 
@@ -8,16 +8,17 @@ Project = Deploy Workpress Website on AWS
     - We also have simple way to deploy workpress by AWS Lightsail.
     - Following steps and commands are useful to deploy workpress website on AWS.
 
-Architecture for this Project = 
+#Architecture for this Project = 
 Pushed in Image form.
 
-Method 1 = 
+#Method 1 = 
 Create Workpress with AWS Lightsail. 
 
-Method 2 = 
+#Method 2 = 
 Create EC2 instance and open it in MobaXterm or RDP. Follow each and every step to complete the task. Following method 2 commands are neceesary to do it. 
 
-Method 3 =
+#Method 3 =
+
 #!/bin/bash
 
 # Update and upgrade packages
